@@ -1,7 +1,24 @@
 # newsapp
+![1](https://user-images.githubusercontent.com/66225746/209185391-4342449f-765a-4afa-b4f7-6e13705e5a53.jpeg)
+
 
 A new Flutter project.
 
+
+Usage
+Please open file constant_config.dart and change YOUR API KEY in the variable keyNewsApi with your own.
+In development mode, I'm used fake json server. So, the data is not realtime.
+Build flavor only work for Android. So, if you want to run as development mode you can use this command.
+
+
+Feature
+ 1>  List daily news.
+ 2>  Filter daily news by category.
+ 3>  Refresh list daily news with pull to refresh style.
+ 4>  Go to detail news website.
+ 5>  Search news.
+
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
