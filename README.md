@@ -5,17 +5,23 @@
 A new Flutter project.
 
 
-Usage
+## Usage
 Please open file constant_config.dart and change YOUR API KEY in the variable keyNewsApi with your own.
 In development mode, I'm used fake json server. So, the data is not realtime.
 Build flavor only work for Android. So, if you want to run as development mode you can use this command.
 
 
-Feature
+## Feature
+
+
  1>  List daily news.
+ 
  2>  Filter daily news by category.
+ 
  3>  Refresh list daily news with pull to refresh style.
+ 
  4>  Go to detail news website.
+ 
  5>  Search news.
 
  
