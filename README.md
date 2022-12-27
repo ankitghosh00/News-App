@@ -1,4 +1,4 @@
-# newsapp
+# Newsapp
 ![1](https://user-images.githubusercontent.com/66225746/209185391-4342449f-765a-4afa-b4f7-6e13705e5a53.jpeg)
 
 
